@@ -28,3 +28,18 @@
     - title: |
         The Culture Map - Breaking Through the Invisible Boundaries of Global Business by Erin Meyer
       comments: Another amazing book around team culture.
+
+- index: 33 # mentor id 33 - madhura
+  books:
+    - title: |
+        Software Engineering at Google by Titus Winters, Tom Manshreck and Hyrum Wright
+      comments: The book is comprehensive; pick and choose concepts that interest you.
+    - title: |
+        The easiest way to learn design patterns by Fiodar Sazanavets
+      comments: The book explains design patterns with real life examples (code samples in c# and javascript). It can be used as a reference book.
+    - title: |
+        Atomic Habits by James Clear
+      comments: A great book to get 1 percent better every day.
+    - title: |
+        The Phoenix Project by Gene Kim, Kevin Behr, and George Spafford
+      comments: The book is written as a novel and focuses on how to improve company processes using DevOps.
